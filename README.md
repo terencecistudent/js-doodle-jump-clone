@@ -3,6 +3,9 @@
 ## Description
 This is a HTML, CSS and JavaScript clone of the game Doodle Jump.
 
+## Deployment
+A live version can be found here [Doodle Jump Clone](https://terencecistudent.github.io/js-doodle-jump-clone/)
+
 ## UX
 ### User Stories
 #### Implemented:
